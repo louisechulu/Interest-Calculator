@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container">
-        <div><div class="header">Future Interest Calculation</div></div>
+        <div><div class="header"> Louise's Future Interest Calculation</div></div>
         <div>
           <div class="content">
               <div class="leftText">You will calculate </div>
